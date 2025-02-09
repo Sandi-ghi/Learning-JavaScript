@@ -1,0 +1,12 @@
+1. If Statement
+   we Use if to specify a block of code to be executed, if a specified condition is true
+
+  if (condition) {
+  // some codes
+  }
+eg..let color; 
+If (mode === "dark-mode") {
+ color = "black";
+}
+
+2. else Statement 
