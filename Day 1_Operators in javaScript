@@ -1,0 +1,33 @@
+ 1. Arthemetic Operators 
+   Modulus (%)...returns the remainder or signed remainder 
+   Exponentiation ( ** )... used to perform exponentiation in JavaScript // eg (5 ** 2 = 25 )
+   Incerement ( ++ )... adds 1 from the operand // eg ( let a=1; a++; console.log(a) ..result a =2  )
+   Dcerement ( ++ )... subract 1 from the operand // eg ( let a=2; a--; console.log(a) ..result a =1  )
+  
+2. Assignment Operators
+There are various   type of Assignment Operators . Some of them are shown in below tabel with example.........
+
+Operator	      Synopsis	                  Example
+ =               x = y                       x = y
+
++=               x += y	                     x = x + y
+
+-=	             x -= y                      x = x - y
+
+*=	             x *= y	                     x = x * y
+
+/=	             x /= y	                     x = x / y
+
+%=	             x %= y	                     x = x % y
+
+**=	             x **= y	                   x = x ** y
+
+
+2.Logical Operators
+
+Operator	      Synopsis	                  Example
+&&=	            x &&= y	                    x = x && (x = y)
+
+||=	            x ||= y	                    x = x || (x = y)
+
+??=	            x ??= y	                    x = x ?? (x = y)
