@@ -1,5 +1,5 @@
 1. If Statement
-   we Use if to specify a block of code to be executed, if a specified condition is true
+   we Use 'if' to specify a block of code to be executed, if a specified condition is true
 
   if (condition) {
   // some codes
@@ -9,4 +9,33 @@ If (mode === "dark-mode") {
  color = "black";
 }
 
-2. else Statement 
+
+2. else Statement
+ we Use 'else' to specify a block of code to be executed, if a specified condition is false...
+
+//sample code
+let age = prompt ( "what is your age")
+if ( age >= 18 ) {
+    console.log("you can drive")
+} else {
+    alert ("you cannot drive")
+} 
+
+
+3. else if Statement
+we use 'else if' to specify a new condition to test, if the first condition is false
+
+//sample code
+let age = prompt ( "what is your age")
+if ( age >= 18 ) {
+    console.log("you can drive")
+} else if( age < 18 ) {
+console.log (" you cannot drivr")
+} else {
+    alert ("this is invalid age")
+} 
+
+4. Switch Statement
+Use 'switch' to specify many alternative blocks of code to be executed
+
+
